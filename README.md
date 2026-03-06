@@ -6,6 +6,7 @@ Under the hood it uses MediaPipe Pose and OpenCV to detect keypoints on your bod
 
 This project is based on an academic paper on a **voice assisted fitness coach with body pose recognition**.
 
+(do check out the revamped project under ai-gym-agent repo!)
 ---
 
 ## Features
