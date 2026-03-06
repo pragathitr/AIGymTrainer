@@ -62,6 +62,7 @@ This project is based on an academic paper on a **voice assisted fitness coach w
 ---
 
 ## How It Works
+<img width="1682" height="625" alt="image" src="https://github.com/user-attachments/assets/cb03b910-8c26-4d61-b54e-12751e521ec8" />
 
 ### 1. Pose detection and angle calculation
 
